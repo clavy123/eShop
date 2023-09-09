@@ -1,0 +1,18 @@
+[
+  {
+    "id": "3",
+    "name": "mamta",
+    "email": "testuser@gmail.com",
+    "password": "testuser@123",
+    "message": "user3 want to access code",
+    "price": 1500
+  },
+  {
+    "id": "4",
+    "name": "saloni",
+    "email": "user4@gmail.com",
+    "password": "user4@123",
+    "message": "user4 want to access code",
+    "price": 1200
+  }
+]
